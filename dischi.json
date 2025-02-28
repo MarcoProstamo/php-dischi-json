@@ -1,37 +1,51 @@
 [
-  {
-    "titolo": "The Dark Side of the Moon",
-    "artista": "Pink Floyd",
-    "url_cover": "https://example.com/darkside.jpg",
-    "anno_pubblicazione": 1973,
-    "genere": "Progressive Rock"
-  },
-  {
-    "titolo": "Thriller",
-    "artista": "Michael Jackson",
-    "url_cover": "https://example.com/thriller.jpg",
-    "anno_pubblicazione": 1982,
-    "genere": "Pop"
-  },
-  {
-    "titolo": "Back in Black",
-    "artista": "AC/DC",
-    "url_cover": "https://example.com/backinblack.jpg",
-    "anno_pubblicazione": 1980,
-    "genere": "Hard Rock"
-  },
-  {
-    "titolo": "Nevermind",
-    "artista": "Nirvana",
-    "url_cover": "https://example.com/nevermind.jpg",
-    "anno_pubblicazione": 1991,
-    "genere": "Grunge"
-  },
-  {
-    "titolo": "Abbey Road",
-    "artista": "The Beatles",
-    "url_cover": "https://example.com/abbeyroad.jpg",
-    "anno_pubblicazione": 1969,
-    "genere": "Rock"
-  }
+    {
+        "titolo": "The Dark Side of the Moon",
+        "artista": "Pink Floyd",
+        "url_cover": "https:\/\/example.com\/darkside.jpg",
+        "anno_pubblicazione": 1973,
+        "genere": "Progressive Rock"
+    },
+    {
+        "titolo": "Thriller",
+        "artista": "Michael Jackson",
+        "url_cover": "https:\/\/example.com\/thriller.jpg",
+        "anno_pubblicazione": 1982,
+        "genere": "Pop"
+    },
+    {
+        "titolo": "Back in Black",
+        "artista": "AC\/DC",
+        "url_cover": "https:\/\/example.com\/backinblack.jpg",
+        "anno_pubblicazione": 1980,
+        "genere": "Hard Rock"
+    },
+    {
+        "titolo": "Nevermind",
+        "artista": "Nirvana",
+        "url_cover": "https:\/\/example.com\/nevermind.jpg",
+        "anno_pubblicazione": 1991,
+        "genere": "Grunge"
+    },
+    {
+        "titolo": "Abbey Road",
+        "artista": "The Beatles",
+        "url_cover": "https:\/\/example.com\/abbeyroad.jpg",
+        "anno_pubblicazione": 1969,
+        "genere": "Rock"
+    },
+    {
+        "titolo": "Ciaone",
+        "artista": "bella",
+        "anno_pubblicazione": "fra",
+        "url_cover": "23",
+        "genere": "23"
+    },
+    {
+        "titolo": "",
+        "artista": "",
+        "anno_pubblicazione": "",
+        "url_cover": "",
+        "genere": ""
+    }
 ]
